@@ -27,11 +27,11 @@ def classify_nsfw(image_path):
     print(f"\n--- Results for: {os.path.basename(image_path)} ---")
     for result in results:
         # Convert score (0.938) to percentage (93.8%)
-        percentage = result['score'] * 100
+        percentage = result['score']
         label = result['label']
-        print(f"{label:10} : {percentage:.2f}%")
+        print(f"{label:10}  {percentage:.2f}")
 
 # --- TEST IT ---
 # Change this to a path of an actual image on your computer
-test_image = "E:/huggingface_ds/hub/datasets--deepghs--nsfw_detect/snapshots/ac763cb1e1557225168be3b6b6b1ee864c17bc36/nsfw_dataset_v1/hentai/0c9b658c19b75832015d248abde7feb16efe8e33ea16143e6edaa2e649981cbc.jpg"
+test_image = r"D:\IMG_20251122_004743.png"
 classify_nsfw(test_image)
