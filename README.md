@@ -22,6 +22,11 @@
 
 <hr>
 
+
+# Demo
+ <a href="https://huggingface.co/spaces/Sagnikroy/TRUST_NSFW_Detection"><img alt="Hugging Face"
+    src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Sagnik%20Roy-ffc107?style=flat&logoColor=white"/></a>
+
 # Introduction
 
 **TRUST-NSFW-Classifier** is a high-performance, deep-learning solution engineered to solve the "Binary Bottleneck" of modern content moderation. While traditional classifiers often fail at the nuance between "artistic" and "explicit," TRUST leverages state-of-the-art **Vision Transformer (ViT)** architecture to deliver granular, multi-dimensional safety scores.
