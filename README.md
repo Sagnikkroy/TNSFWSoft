@@ -4,7 +4,7 @@
 <hr>
 <div align="center" style="line-height: 2;">
   
-  <a href="https://huggingface.co/Sagnikroy/TRUST-NSFW-Soft-V1/tree/main"><img alt="Hugging Face"
+  <a href="https://huggingface.co/spaces/Sagnikroy/TRUST_NSFW_Detection"><img alt="Hugging Face"
     src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Sagnik%20Roy-ffc107?style=flat&logoColor=white"/></a>
   &nbsp;
   <a href="https://x.com/sagnikkroy"><img alt="Twitter Follow"
@@ -100,6 +100,6 @@ Our training focuses on minimizing **False Negatives** in the "Porn" and "Hentai
 ---
 ### Model 
 The model is available on Huggingface please follow this link
- <a href="https://huggingface.co/Sagnikroy/TRUST-NSFW-Soft-V1/tree/main"><img alt="Hugging Face"
+ <a href="https://huggingface.co/spaces/Sagnikroy/TRUST_NSFW_Detection"><img alt="Hugging Face"
     src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Sagnik%20Roy-ffc107?style=flat&logoColor=white"/></a>
 
